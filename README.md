@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pascaretta5, AKA Bruno Pascaretta.
 - 👀 I’m interested in C, C#, and Java.
 - 🌱 I’m currently learning and improving my coding skills in Java with some minor projects in my GitHub.
-- 💞️ I’m looking to collaborate on Software engineer projects.
+- 💞️ I’m looking to collaborate on Software engineering projects.
 - 📫 How to reach me? Just email me at pascaretta5@gmail.com
 - I hope you enjoy my GitHub page! Thank you.
 
